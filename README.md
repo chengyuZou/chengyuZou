@@ -14,8 +14,8 @@
     <p>&emsp;&emsp;我的CSDN主页：<a href="https://blog.csdn.net/Du5Ty?type=blog" target="CSDN"> CSDN </a></p>
   </div>
   
-  <div style="margin-left: 20px;">
-    <img width="180" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" style="margin-left: 10px;" />
+  <div style="margin-right: 20px;">
+    <img width="180" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" />
   </div>
 
 </div>
