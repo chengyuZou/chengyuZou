@@ -21,9 +21,11 @@
 ![](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&card_width=450&theme=dark)
 
-## LLM学习资料
+## 学习资料
+排名不分先后顺序
+### LLM
 <details close> 
-<summary> <b>GitHub</b> </summary>
+<summary> <b>学习网站</b> </summary>
 
 - [MindMind](https://github.com/jingyaogong/minimind)
 - [MiniMind-in-Depth](https://github.com/hans0809/MiniMind-in-Depth)
@@ -48,8 +50,35 @@
 - [happy-llm](https://github.com/datawhalechina/happy-llm)
 - [self-llm](https://github.com/datawhalechina/self-llm)
 - [transformers-code](https://github.com/zyds/transformers-code)
+- [AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central)
+- [so-large-lm](https://github.com/datawhalechina/so-large-lm)
+- [动手学深度学习2.0](https://zh.d2l.ai/chapter_preface/index.html)
+- [ai-app](https://github.com/GuoCoder/ai-app)
+- [大模型快速入门学习路径【持续更新】](https://zhuanlan.zhihu.com/p/685915213)
+- [GitHub狂飙3万star的LLM公开资料 - 大模型入门教程](https://zhuanlan.zhihu.com/p/686277638)
 </details>
 
+<details close> 
+<summary> <b>博主</b> </summary>
+
+- Bili[东川路第一可爱猫猫虫](https://space.bilibili.com/675505667?spm_id_from=333.1387.follow.user_card.click)
+- Bili[happy魇](https://space.bilibili.com/478929155?spm_id_from=333.1387.follow.user_card.click)
+- Bili[偷星九月333](https://space.bilibili.com/349950942?spm_id_from=333.1387.follow.user_card.click)
+- Bili[堂吉诃德拉曼查的英豪](https://space.bilibili.com/341376543?spm_id_from=333.1387.follow.user_card.click)
+- Bili[你可是处女座啊](https://space.bilibili.com/21060026?spm_id_from=333.1387.follow.user_card.click)
+- Bili[chaofa用代码打点酱油](https://space.bilibili.com/12420432?spm_id_from=333.1387.follow.user_card.click)
+- CSDN[v_JULY_v](https://blog.csdn.net/v_JULY_v?type=blog)
+
+</details>
+
+<details close> 
+<summary> <b>LeetCode</b> </summary>
+
+- [LC-Rating](https://huxulm.github.io/lc-rating/zen)
+- [灵茶山艾府](https://leetcode.cn/u/endlesscheng/)
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go/tree/master)
+- [Hello算法](https://www.hello-algo.com/)
+</details>
 
 <!--
 **chengyuZou/chengyuZou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
