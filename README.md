@@ -21,13 +21,33 @@
 ![](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&card_width=450&theme=dark)
 
-## LLM
+## LLM学习资料
 <details close> 
-<summary> <b>LLM-网站</b> </summary>
-排名不分先后顺序
+<summary> <b>GitHub</b> </summary>
+
 - [MindMind](https://github.com/jingyaogong/minimind)
-
-
+- [MiniMind-in-Depth](https://github.com/hans0809/MiniMind-in-Depth)
+- [Deepseek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+- [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+- [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+- [DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM)
+- [DoctorGLM](https://github.com/xionghonglin/DoctorGLM)
+- [stanford-cs336-a1](https://github.com/Spectual/stanford-cs336-a1)
+- [llm-universe](https://github.com/datawhalechina/llm-universe)
+- [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+- [tiny-universe](https://github.com/datawhalechina/tiny-universe)
+- [machine_learning_notebook](https://github.com/583/machine_learning_notebook)
+- [Hands-On-Large-Language-Models-CN](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN)
+- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
+- [study-progress-of-llm](https://github.com/mikelikeai/study-progress-of-llm)
+- [llm-course](https://github.com/mlabonne/llm-course)
+- [CS224n-Reading-Notes](https://github.com/LooperXX/CS224n-Reading-Notes)
+- [happy-llm](https://github.com/datawhalechina/happy-llm)
+- [self-llm](https://github.com/datawhalechina/self-llm)
+- [transformers-code](https://github.com/zyds/transformers-code)
 </details>
 
 
