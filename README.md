@@ -3,18 +3,13 @@
 
 ### 🤺 About Me
 
-<img align="right" width="120" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" />
+<img align="right" width="120" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f"/>
 
 <p>&emsp;&emsp;大三在校生，对数学竞赛，深度学习，强化学习，大模型感兴趣</p>
 <p>&emsp;&emsp;想学点前后端，实现自己的小程序</p>
-<p>&emsp;&emsp; 我的HuggingFace网站：<a href="https://huggingface.co/erfsdfds" target="HugingFace"> PeterJXL </a></p>
-[HugingFace](https://huggingface.co/erfsdfds)
-
-我的Kaggle主页[Kaggle](https://www.kaggle.com/zouchengyu)
-
-我的LeetCode主页[LeetCode](https://leetcode.cn/u/zouchengyu/)
-
-
+<p>&emsp;&emsp;我的HuggingFace主页：<a href="https://huggingface.co/erfsdfds" target="HugingFace"> HugingFace </a></p>
+<p>&emsp;&emsp;我的Kaggle主页：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle"> Kaggle </a></p>
+<p>&emsp;&emsp;我的LeetCode主页：<a href="https://leetcode.cn/u/zouchengyu/" target="LeetCode"> LeetCode </a></p>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
