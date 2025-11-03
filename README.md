@@ -13,7 +13,7 @@
   <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
-### 学习资料
+## 学习资料
 注:排名不分先后顺序
 记忆有限，只能想到这么多,后续会逐渐添加
 <details close> 
@@ -72,7 +72,7 @@
 - [Hello算法](https://www.hello-algo.com/)
 </details>
 
-### 电子书
+## 电子书
 等我上传
 
 
