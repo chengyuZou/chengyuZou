@@ -1,14 +1,18 @@
 ## Hello 👋
 
 
-### 🤺 About Me
+## 🤺 About Me
 
 <img align="right" width="120" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" />
 
 <p>&emsp;&emsp;大三在校生，对数学竞赛，深度学习，强化学习，大模型感兴趣</p>
 <p>&emsp;&emsp;想学点前后端，实现自己的小程序</p>
 
-<p>&emsp;&emsp;[我的HuggingFace网站](https://huggingface.co/erfsdfds)</p>
+我的HuggingFace网站[HugingFace](https://huggingface.co/erfsdfds)
+
+我的Kaggle主页[Kaggle](https://www.kaggle.com/zouchengyu)
+
+我的LeetCode主页[LeetCode](https://leetcode.cn/u/zouchengyu/)
 
 
 
