@@ -15,7 +15,7 @@
   </div>
   
   <div style="margin-left: 20px;">
-    <img width="180" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" />
+    <img width="180" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" style="margin-left: 10px;" />
   </div>
 
 </div>
