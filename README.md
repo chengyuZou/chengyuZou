@@ -17,8 +17,8 @@
 ## Abstract
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengyuZou)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuZou)
-![](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true)
 
+![](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chengyuZou)
 <!--
 **chengyuZou/chengyuZou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
