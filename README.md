@@ -13,17 +13,9 @@
   <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
-
-## Abstract
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengyuZou&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuZou&theme=dark)
-
-![](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&card_width=450&theme=dark)
-
-## 学习资料
-排名不分先后顺序
-### LLM
+### 学习资料
+注:排名不分先后顺序
+记忆有限，只能想到这么多,后续会逐渐添加
 <details close> 
 <summary> <b>学习网站</b> </summary>
 
@@ -79,6 +71,18 @@
 - [codeforces-go](https://github.com/EndlessCheng/codeforces-go/tree/master)
 - [Hello算法](https://www.hello-algo.com/)
 </details>
+
+### 电子书
+等我上传
+
+
+## Abstract
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengyuZou&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuZou&theme=dark)
+
+![](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&card_width=450&theme=dark)
+
 
 <!--
 **chengyuZou/chengyuZou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
