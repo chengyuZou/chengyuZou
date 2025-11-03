@@ -3,7 +3,7 @@
 
 ## About Me 🤺 
 
-<img width="200" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" align="right"/> 
+<img width="170" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" align="right"/> 
 
 <p>&emsp;&emsp;大三在校生，对数学竞赛，深度学习，强化学习，大模型感兴趣</p>
 <p>&emsp;&emsp;想学点前后端，实现自己的小程序</p>
@@ -14,9 +14,7 @@
 
   <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
+
 
 ## Abstract
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengyuZou&theme=dark)
