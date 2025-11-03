@@ -6,7 +6,7 @@
 ## 使用语言统计
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuZou)
 
-![](https://stats.justsong.cn/api/leetcode?username=youthful-i3rahmaguptacge)
+![](https://stats.justsong.cn/api/leetcode?username=伊蕾娜official&cn=true)
 <!--
 **chengyuZou/chengyuZou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
