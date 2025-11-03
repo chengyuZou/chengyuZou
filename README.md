@@ -2,7 +2,7 @@
 
 
 ### 🤺 About Me
-
+<img width="180" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" align="right" />
 <div style="text-align: left; margin-bottom: 20px;">
   <p>&emsp;&emsp;大三在校生，对数学竞赛，深度学习，强化学习，大模型感兴趣</p>
   <p>&emsp;&emsp;想学点前后端，实现自己的小程序</p>
@@ -11,7 +11,7 @@
   <p>&emsp;&emsp;我的LeetCode主页：<a href="https://leetcode.cn/u/zouchengyu/" target="LeetCode"> LeetCode </a></p>
   <p>&emsp;&emsp;我的CSDN主页：<a href="https://blog.csdn.net/Du5Ty?type=blog" target="CSDN"> CSDN </a></p>
 </div>
-<img width="180" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" align="right" />
+
 
 
   <!-- for beauty 留个空行好看点 -->
