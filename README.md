@@ -8,8 +8,7 @@
 <p>&emsp;&emsp;大三在校生，对数学竞赛，深度学习，强化学习，大模型感兴趣</p>
 <p>&emsp;&emsp;目前正在做: <a href="https://github.com/chengyuZou/NLP-LLM/tree/main/Law" target="GitHub"> 基于Baichuan2-7B的法律微调大模型与RAG 系统</a></p>
 <p>&emsp;&emsp;想学点前后端，实现自己的小程序</p>
-<p>&emsp;&emsp;我的HuggingFace主页：<a href="https://huggingface.co/erfsdfds" target="HugingFace"> HugingFace </a></p>
-<p>&emsp;&emsp;我的Kaggle主页：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle"> Kaggle </a></p>
+<p>&emsp;&emsp;我的HuggingFace主页：<a href="https://huggingface.co/erfsdfds" target="HugingFace"> HugingFace </a></p> <p>&emsp;&emsp;我的Kaggle主页：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle"> Kaggle </a></p>
 <p>&emsp;&emsp;我的LeetCode主页：<a href="https://leetcode.cn/u/zouchengyu/" target="LeetCode"> LeetCode </a></p>
 <p>&emsp;&emsp;我的CSDN主页：<a href="https://blog.csdn.net/Du5Ty?type=blog" target="CSDN"> CSDN </a></p>
 <p>&emsp;&emsp;图片请自取 ➡</p>
