@@ -1,5 +1,9 @@
 ## Hello 👋
 
+<table>
+  
+<tr><td>
+
 ### 🤺 About Me
 
 <img align="right" width="120" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" />
