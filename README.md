@@ -25,6 +25,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuZou)
 
 ![](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou)
 
 
 <!--
