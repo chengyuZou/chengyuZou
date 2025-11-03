@@ -9,13 +9,16 @@
 <p>&emsp;&emsp;我的Kaggle主页：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle"> Kaggle </a></p>
 <p>&emsp;&emsp;我的LeetCode主页：<a href="https://leetcode.cn/u/zouchengyu/" target="LeetCode"> LeetCode </a></p>
 <p>&emsp;&emsp;我的CSDN主页：<a href="https://blog.csdn.net/Du5Ty?type=blog" target="CSDN"> CSDN </a></p>
-<p>&emsp;&emsp;图片请自取 ➡</p>
+<p>&emsp;&emsp;樱羽艾玛图片请自取 ➡</p>
   <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
 ## 学习资料
 注:排名不分先后顺序
+
 记忆有限，只能想到这么多,后续会逐渐添加
+
+若有侵权,请及时联系我删除
 <details close> 
 <summary> <b>学习网站</b> </summary>
 
@@ -53,13 +56,13 @@
 <details close> 
 <summary> <b>博主</b> </summary>
 
-- Bili[东川路第一可爱猫猫虫](https://space.bilibili.com/675505667?spm_id_from=333.1387.follow.user_card.click)
-- Bili[happy魇](https://space.bilibili.com/478929155?spm_id_from=333.1387.follow.user_card.click)
-- Bili[偷星九月333](https://space.bilibili.com/349950942?spm_id_from=333.1387.follow.user_card.click)
-- Bili[堂吉诃德拉曼查的英豪](https://space.bilibili.com/341376543?spm_id_from=333.1387.follow.user_card.click)
-- Bili[你可是处女座啊](https://space.bilibili.com/21060026?spm_id_from=333.1387.follow.user_card.click)
-- Bili[chaofa用代码打点酱油](https://space.bilibili.com/12420432?spm_id_from=333.1387.follow.user_card.click)
-- CSDN[v_JULY_v](https://blog.csdn.net/v_JULY_v?type=blog)
+- Bili [东川路第一可爱猫猫虫](https://space.bilibili.com/675505667?spm_id_from=333.1387.follow.user_card.click)
+- Bili [happy魇](https://space.bilibili.com/478929155?spm_id_from=333.1387.follow.user_card.click)
+- Bili [偷星九月333](https://space.bilibili.com/349950942?spm_id_from=333.1387.follow.user_card.click)
+- Bili [堂吉诃德拉曼查的英豪](https://space.bilibili.com/341376543?spm_id_from=333.1387.follow.user_card.click)
+- Bili [你可是处女座啊](https://space.bilibili.com/21060026?spm_id_from=333.1387.follow.user_card.click)
+- Bili [chaofa用代码打点酱油](https://space.bilibili.com/12420432?spm_id_from=333.1387.follow.user_card.click)
+- CSDN [v_JULY_v](https://blog.csdn.net/v_JULY_v?type=blog)
 
 </details>
 
