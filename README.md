@@ -4,7 +4,7 @@
 ### 🤺 About Me
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+  <div style="flex: 1;">
     <p>&emsp;&emsp;大三在校生，对数学竞赛，深度学习，强化学习，大模型感兴趣</p>
     <p>&emsp;&emsp;想学点前后端，实现自己的小程序</p>
     <p>&emsp;&emsp;我的HuggingFace主页：<a href="https://huggingface.co/erfsdfds" target="HugingFace"> HugingFace </a></p>
