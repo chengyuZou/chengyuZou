@@ -3,7 +3,7 @@
 <img width="170" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" align="right"/> 
  
 <p>&emsp;&emsp;大三在校生，对数学竞赛，深度学习，强化学习，大模型感兴趣</p>
-<p>&emsp;&emsp;目前正在做: <a href="https://github.com/chengyuZou/NLP-LLM/tree/main/Law" target="GitHub"> 基于Baichuan2-7B的法律微调大模型与RAG 系统</a></p>
+<p>&emsp;&emsp;目前正在做: <a href="https://github.com/chengyuZou/NLP-LLM/tree/main/Law" target="GitHub"> 基于Baichuan2-7B的法律微调大模型与RAG 系统</a> and 步态识别</p>
 <p>&emsp;&emsp;想学点前后端，实现自己的小程序</p>
 <p>&emsp;&emsp;我的HuggingFace主页：<a href="https://huggingface.co/erfsdfds" target="HugingFace"> HugingFace </a></p> 
 <p>&emsp;&emsp;我的Kaggle主页：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle"> Kaggle </a></p>
@@ -83,7 +83,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuZou&theme=radical)
 
 ![](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats-sandy-two.vercel.app?user=chengyuZou&theme=radical&date_format=%5BY.%5Dn.j&card_height=170)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-sandy-two.vercel.app?user=chengyuZou&theme=radical&date_format=%5BY.%5Dn.j&card_height=170&card_width=480)](https://git.io/streak-stats)
 
 
 
