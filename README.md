@@ -85,7 +85,6 @@
 ![](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&theme=radical&card_height=175)](https://git.io/streak-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chengyuZou&left_color=green&right_color=red)
 
 
 <!--
