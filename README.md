@@ -83,7 +83,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuZou&theme=radical)
 
 ![](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&card_width=450&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zouchengyu&theme=radical)](https://git.io/streak-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zouchengyu&left_color=green&right_color=red)
 
 
 <!--
