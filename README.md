@@ -5,7 +5,7 @@
 <p>&emsp;&emsp;大三在校生，对数学竞赛，深度学习，强化学习，大模型感兴趣</p>
 <p>&emsp;&emsp;目前正在做: <a href="https://github.com/chengyuZou/NLP-LLM/tree/main/Law" target="GitHub"> 基于Baichuan2-7B的法律微调大模型与RAG 系统</a> and 步态识别</p>
 <p>&emsp;&emsp;想学点前后端，实现自己的小程序</p>
-<p>&emsp;&emsp;我的HuggingFace主页：<a href="https://huggingface.co/erfsdfds" target="HugingFace"> HugingFace </a></p> 
+<p>&emsp;&emsp;我的HuggingFace主页：<a href="https://huggingface.co/erfsdfds" target="HugingFace"> <img alt="Static Badge" src="https://img.shields.io/badge/Hugging%20Face-%23234285F4?style=flat-square&logo=huggingface"> </a></p> 
 <p>&emsp;&emsp;我的Kaggle主页：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle"> Kaggle </a></p>
 <p>&emsp;&emsp;我的LeetCode主页：<a href="https://leetcode.cn/u/zouchengyu/" target="LeetCode"> LeetCode </a></p>
 <p>&emsp;&emsp;我的CSDN主页：<a href="https://blog.csdn.net/Du5Ty?type=blog" target="CSDN"> CSDN </a></p>
@@ -13,7 +13,6 @@
   <!-- for beauty 留个空行好看点 -->
 
 ## Platform and Tools
-
 [![python](https://img.shields.io/badge/Python-ffd43b?style=flat-square&logo=python)](https://www.python.org/)
 [![c](https://img.shields.io/badge/C-5c6bc0?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![cpp](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -22,7 +21,7 @@
 [![vmware](https://img.shields.io/badge/VMware-005c8a?style=flat-square&logo=vmware)](https://www.vmware.com/)
 [![vsc](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://neovim.io/)
 [![pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
-[![opensim](https://img.shields.io/badge/OpenSim-black?style=flatsquare)](https://simtk.org/projects/opensim)
+[![opensim](https://img.shields.io/badge/OpenSim-#003545?style=flatsquare)](https://simtk.org/projects/opensim)
 [![blender](https://img.shields.io/badge/Blender-%2350B0E9?style=flat-square&logo=blender)](https://www.blender.org/)
 [![solidworks](https://img.shields.io/badge/SolidWorks-%23B5314C?style=flat-square)](https://www.solidworks.com/)
 
@@ -37,6 +36,7 @@
 [![leetcode](https://img.shields.io/badge/LeetCode-%23000000?style=flat-square&logo=leetcode)](https://leetcode.cn/)
 [![openai](https://img.shields.io/badge/OpenAI-%23412991?style=flat-square&logo=openai)](https://openai.com/zh-Hans-CN/)
 [![gemini](https://img.shields.io/badge/Gemini-%2300E47C?style=flat-square&logo=googlegemini)](https://deepmind.google/models/gemini/)
+[![langchain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain)](https://www.langchain.com/)
 
 ## 学习资料
 注:排名不分先后顺序
