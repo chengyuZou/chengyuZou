@@ -1,9 +1,4 @@
 ## About Me 🤺 
-<style>
-a {
-  text-decoration: none;
-}
-</style>
 
 <img width="170" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" align="right"/> 
 
@@ -15,7 +10,7 @@ a {
 <p>&emsp;&emsp;我的LeetCode主页：<a href="https://leetcode.cn/u/zouchengyu/" target="LeetCode" > LeetCode </a></p>
 <p>&emsp;&emsp;我的CSDN主页：<a href="https://blog.csdn.net/Du5Ty?type=blog" target="CSDN" > CSDN </a></p>
 <p>&emsp;&emsp;樱羽艾玛图片请自取 ➡</p>
-  <!-- for beauty 留个空行好看点 -->
+<!-- for beauty 留个空行好看点 -->
 
 ## Platform and Tools
 [![python](https://img.shields.io/badge/Python-ffd43b?style=flat-square&logo=python)](https://www.python.org/)
@@ -42,14 +37,14 @@ a {
 [![gemini](https://img.shields.io/badge/Gemini-%2300E47C?style=flat-square&logo=googlegemini)](https://deepmind.google/models/gemini/)
 [![langchain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain)](https://www.langchain.com/)
 
-## 学习资料
+## Open Materials
 注:排名不分先后顺序
 
 记忆有限,只能想到这么多,后续会逐渐添加
 
 若有侵权,请及时联系我删除
 <details close> 
-<summary> <b>学习网站</b> </summary>
+<summary> <b>Website</b> </summary>
 
 - [MindMind](https://github.com/jingyaogong/minimind)
 - [MiniMind-in-Depth](https://github.com/hans0809/MiniMind-in-Depth)
@@ -83,7 +78,7 @@ a {
 </details>
 
 <details close> 
-<summary> <b>博主</b> </summary>
+<summary> <b>Blogger</b> </summary>
 
 - Bili [东川路第一可爱猫猫虫](https://space.bilibili.com/675505667?spm_id_from=333.1387.follow.user_card.click)
 - Bili [happy魇](https://space.bilibili.com/478929155?spm_id_from=333.1387.follow.user_card.click)
@@ -104,8 +99,10 @@ a {
 - [Hello算法](https://www.hello-algo.com/)
 </details>
 
-## 电子书
-等我上传
+<details close> 
+<summary> <b>E-Book</b> </summary>
+
+</details>
 
 
 ## Abstract
