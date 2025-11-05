@@ -6,9 +6,9 @@
 <p>&emsp;&emsp;目前正在做: <a href="https://github.com/chengyuZou/NLP-LLM/tree/main/Law" target="GitHub"> 基于Baichuan2-7B的法律微调大模型与RAG 系统</a> and 步态识别</p>
 <p>&emsp;&emsp;想学点前后端，实现自己的小程序</p>
 <p>&emsp;&emsp;我的HuggingFace主页：<a href="https://huggingface.co/erfsdfds" style="text-decoration:none"> huggingface </a> </p> 
-<p>&emsp;&emsp;我的Kaggle主页：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle"> Kaggle </a></p>
-<p>&emsp;&emsp;我的LeetCode主页：<a href="https://leetcode.cn/u/zouchengyu/" target="LeetCode"> LeetCode </a></p>
-<p>&emsp;&emsp;我的CSDN主页：<a href="https://blog.csdn.net/Du5Ty?type=blog" target="CSDN"> CSDN </a></p>
+<p>&emsp;&emsp;我的Kaggle主页：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle" style="text-decoration:none"> Kaggle </a></p>
+<p>&emsp;&emsp;我的LeetCode主页：<a href="https://leetcode.cn/u/zouchengyu/" target="LeetCode" style="text-decoration:none"> LeetCode </a></p>
+<p>&emsp;&emsp;我的CSDN主页：<a href="https://blog.csdn.net/Du5Ty?type=blog" target="CSDN" style="text-decoration:none"> CSDN </a></p>
 <p>&emsp;&emsp;樱羽艾玛图片请自取 ➡</p>
   <!-- for beauty 留个空行好看点 -->
 
