@@ -2,14 +2,14 @@
 
 <img width="170" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" align="right"/> 
 
-<p>&emsp;&emsp;A third-year university student interested in math competitions, deep learning, reinforcement learning, and large-scale models.</p>
-<p>&emsp;&emsp;Currently working on: <a href="https://github.com/chengyuZou/NLP-LLM/tree/main/Law" target="GitHub"> Legal fine-tuning large model and RAG system based on Baichuan2-7B</a> and Gait recognition</p>
-<p>&emsp;&emsp;I want to learn some front-end and back-end development to create my own mini-program.</p>
+<p>&emsp;&emsp;大三在校生,对数学竞赛,机器学习,深度学习,大模型感兴趣</p>
+<p>&emsp;&emsp;目前正在做:<a href="https://github.com/chengyuZou/NLP-LLM/tree/main/Law" target="GitHub"> 基于BaiChuan2-7B的法律微调大模型与RAG系统</a> and 步态识别</p>
+<p>&emsp;&emsp;想学点前后端实现自己的小程序</p>
 <p>&emsp;&emsp;My HuggingFace homepage：<a href="https://huggingface.co/erfsdfds"> huggingface </a> </p> 
 <p>&emsp;&emsp;My Kaggle homepage：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle" > Kaggle </a></p>
 <p>&emsp;&emsp;My LeetCode homepage：<a href="https://leetcode.cn/u/zouchengyu/" target="LeetCode" > LeetCode </a></p>
 <p>&emsp;&emsp;My CSDN homepage：<a href="https://blog.csdn.net/Du5Ty?type=blog" target="CSDN" > CSDN </a></p>
-<p>&emsp;&emsp;Picture ➡</p>
+<p>&emsp;&emsp;樱羽艾玛图片自取 ➡</p>
 <!-- for beauty 留个空行好看点 -->
 
 ## Platform and Tools
