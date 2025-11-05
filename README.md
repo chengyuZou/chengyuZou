@@ -1,11 +1,14 @@
 ## About Me 🤺 
 
 <img width="170" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" align="right"/> 
- 
+
+<style>
+ a{ text-decoration:none}
+</style>
 <p>&emsp;&emsp;大三在校生，对数学竞赛，深度学习，强化学习，大模型感兴趣</p>
 <p>&emsp;&emsp;目前正在做: <a href="https://github.com/chengyuZou/NLP-LLM/tree/main/Law" target="GitHub"> 基于Baichuan2-7B的法律微调大模型与RAG 系统</a> and 步态识别</p>
 <p>&emsp;&emsp;想学点前后端，实现自己的小程序</p>
-<p>&emsp;&emsp;我的HuggingFace主页：<a href="https://huggingface.co/erfsdfds" class="no-underline"> <img alt="Static Badge" src="https://img.shields.io/badge/Hugging%20Face-%23071D49?logo=huggingface"> </a> </p> 
+<p>&emsp;&emsp;我的HuggingFace主页：<a href="https://huggingface.co/erfsdfds"> <img alt="Static Badge" src="https://img.shields.io/badge/Hugging%20Face-%23071D49?logo=huggingface"> </a> </p> 
 <p>&emsp;&emsp;我的Kaggle主页：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle"> Kaggle </a></p>
 <p>&emsp;&emsp;我的LeetCode主页：<a href="https://leetcode.cn/u/zouchengyu/" target="LeetCode"> LeetCode </a></p>
 <p>&emsp;&emsp;我的CSDN主页：<a href="https://blog.csdn.net/Du5Ty?type=blog" target="CSDN"> CSDN </a></p>
