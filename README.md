@@ -5,7 +5,7 @@
 <p>&emsp;&emsp;大三在校生,对数学竞赛,机器学习,深度学习,大模型感兴趣</p>
 <p>&emsp;&emsp;目前正在做:<a href="https://github.com/chengyuZou/NLP-LLM/tree/main/Law" target="GitHub"> 基于BaiChuan2-7B的法律微调大模型与RAG系统</a> and 步态识别</p>
 <p>&emsp;&emsp;想学点前后端实现自己的小程序</p>
-<p>&emsp;&emsp;My HuggingFace homepage：<a href="https://huggingface.co/erfsdfds"> huggingface </a> </p> 
+<p>&emsp;&emsp;My HuggingFace homepage：<a href="https://huggingface.co/erfsdfds"> HuggingFace </a> </p> 
 <p>&emsp;&emsp;My Kaggle homepage：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle" > Kaggle </a></p>
 <p>&emsp;&emsp;My LeetCode homepage：<a href="https://leetcode.cn/u/zouchengyu/" target="LeetCode" > LeetCode </a></p>
 <p>&emsp;&emsp;My CSDN homepage：<a href="https://blog.csdn.net/Du5Ty?type=blog" target="CSDN" > CSDN </a></p>
