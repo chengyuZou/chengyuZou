@@ -23,6 +23,7 @@
 [![pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![blender](https://img.shields.io/badge/Blender-%2350B0E9?style=flat-square&logo=blender)](https://www.blender.org/)
 [![solidworks](https://img.shields.io/badge/SolidWorks-%23B5314C?style=flat-square)](https://www.solidworks.com/)
+[![opensim](https://img.shields.io/badge/OpenSim-%000000?style=flat-square)](https://simtk.org/projects/opensim)
 
 [![opencv](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv)](https://opencv.org/)
 [![anaconda](https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda)](https://www.anaconda.com/)
@@ -44,7 +45,7 @@
 
 
 ## Abstract
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengyuZou&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengyuZou&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuZou&theme=radical&card_height=170)
 
 [![GitHub Streak](https://github-readme-streak-stats-sandy-two.vercel.app?user=chengyuZou&theme=radical&date_format=%5BY.%5Dn.j&card_height=170&card_width=450)](https://git.io/streak-stats)
