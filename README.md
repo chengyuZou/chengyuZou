@@ -1,9 +1,9 @@
-## About Me 🤺 
+## About Me 
 
 <img width="170" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" align="right"/> 
 
-<p>&emsp;&emsp;大三在校生,对数学竞赛,机器学习,深度学习,大模型感兴趣</p>
-<p>&emsp;&emsp;目前正在做: Ema-Agent and 准备写步态识别Paper</p>
+<p>&emsp;&emsp;大三在校生,对数学竞赛,大模型感,智能体兴趣</p>
+<p>&emsp;&emsp;目前正在更新EmaAgent</p>
 <p>&emsp;&emsp;想学点前后端实现自己的小程序</p>
 <p>&emsp;&emsp;My HuggingFace homepage：<a href="https://huggingface.co/erfsdfds"> HuggingFace </a> </p> 
 <p>&emsp;&emsp;My Kaggle homepage：<a href="https://www.kaggle.com/zouchengyu" target="Kaggle" > Kaggle </a></p>
@@ -52,17 +52,3 @@
 
 
 
-<!--
-**chengyuZou/chengyuZou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
