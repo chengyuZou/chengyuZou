@@ -45,8 +45,9 @@
 
 
 ## Abstract
-[![Anurag's GitHub stats](https://github-readme-stats-chengyuzous-projects.vercel.app/api?username=chengyuZou&theme=radical&v=20260220)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats-chengyuzous-projects.vercel.app/api/top-langs/?username=chengyuZou&theme=radical&card_height=170&v=20260220)
+<img src="https://github-readme-stats-chengyuzous-projects.vercel.app/api?username=chengyuZou&theme=radical&cache_seconds=1800" />
+<img src="https://github-readme-stats-chengyuzous-projects.vercel.app/api/top-langs/?username=chengyuZou&theme=radical&card_height=170&cache_seconds=1800" />
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&theme=radical)](https://git.io/streak-stats)
