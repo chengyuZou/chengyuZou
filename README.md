@@ -45,8 +45,9 @@
 
 
 ## Abstract
-<img src="https://github-readme-stats-chengyuzous-projects.vercel.app/api?username=chengyuZou&theme=radical&cache_seconds=1800" />
-<img src="https://github-readme-stats-chengyuzous-projects.vercel.app/api/top-langs/?username=chengyuZou&theme=radical&card_height=170&cache_seconds=1800" />
+![GitHub Stats](https://github-readme-stats-chengyuzous-projects.vercel.app/api?username=chengyuZou&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-chengyuzous-projects.vercel.app/api/top-langs/?username=chengyuZou&theme=radical&card_height=170&cache_seconds=1800)
+
 
 
 
