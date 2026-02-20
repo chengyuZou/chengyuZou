@@ -43,9 +43,11 @@
 [Open-LLM](https://github.com/chengyuZou/Open-LLM)
 
 
+
 ## Abstract
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengyuZou&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuZou&theme=radical&card_height=170)
+[![Anurag's GitHub stats](https://github-readme-stats-chengyuzous-projects.vercel.app/api?username=chengyuZou&theme=radical&v=20260220)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-chengyuzous-projects.vercel.app/api/top-langs/?username=chengyuZou&theme=radical&card_height=170&v=20260220)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&theme=radical)](https://git.io/streak-stats)
 ![](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=radical&card_height=170)
