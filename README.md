@@ -7,7 +7,8 @@
 <p>&emsp;&emsp;🔧 正在探索全栈开发，逐步搭建自己的 AI 应用体系</p>
 <p>&emsp;&emsp;🌸 2026-02-16 EmaAgent 开源 —— 基于 ReAct Agent 与 LightRAG 的游戏角色 AI 引擎</p>
 <p>&emsp;&emsp;📄 2026-01 论文一作在投</p>
-<p>&emsp;&emsp;🚀 2025-07 转码LLM 2025-11 入门Agent</p>
+<p>&emsp;&emsp;🤖 2025-11 入门Agent</p>
+<p>&emsp;&emsp;🚀 2025-07 转码LLM </p>
 <p>&emsp;&emsp;🏆 2024-11 第15届全国大学生数学竞赛非数A全省前15(吉大校排12/2577 决赛名额9)</p>
 <p>&emsp;&emsp;➡ 樱羽艾玛图片请自取 </p>
 <br/>
@@ -221,5 +222,5 @@
   <img align="center" src="https://github-readme-stats-seven-navy-36.vercel.app/api/top-langs/?username=chengyuZou&hide=html,css&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=12&stats_format=bytes&layout=donut-vertical"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&theme=radical)](https://git.io/streak-stats)
-![LeetCode Stats](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=radical&card_height=170)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&theme=radical&card_width=400)](https://git.io/streak-stats)
+![LeetCode Stats](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=radical&card_height=160)
