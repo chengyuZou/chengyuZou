@@ -77,6 +77,7 @@
 [![PowerSell](https://img.shields.io/badge/PowerSell%20-%23007CFF.svg?style=flat-square&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![Bash](https://img.shields.io/badge/Bash%20-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Computer_terminal)
+[![Git](https://img.shields.io/badge/Git-111111%3F?style=flat-square&logo=git&color=black)](https://git-scm.com/)
 
   </td>
 </tr>
@@ -170,8 +171,9 @@
     <td width="176px" align="center"><b>Editors / IDE</b><br/>Daily use</td>
     <td>
 
-[![vsc](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://neovim.io/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://neovim.io/)
 [![pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
+[![Cursor](https://img.shields.io/badge/Cursor-111111%3F?style=flat-square&logo=cursor&logoColor=white&color=black)](https://cursor.com/cn)
 
   </td>
 </tr>
