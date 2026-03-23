@@ -1,17 +1,10 @@
 ## About Me
 
-<img width="170" src="https://github.com/user-attachments/assets/49cdab2e-7d2e-4c73-a239-037176529e5f" align="right"/> 
+想搭一个二次元角色通用智能体框架
 
-<p>&emsp;&emsp;📗 通信工程大三在校生</p>
-<p>&emsp;&emsp;💡 专注于 LLM算法 × Agent应用开发</p>
-<p>&emsp;&emsp;🔧 正在探索全栈开发，逐步搭建自己的 AI 应用体系</p>
-<p>&emsp;&emsp;🌸 2026-02-16 EmaAgent 开源 —— 基于 ReAct Agent 与 LightRAG 的游戏角色 AI 引擎</p>
-<p>&emsp;&emsp;📄 2026-01 论文一作在投</p>
-<p>&emsp;&emsp;🤖 2025-11 入门Agent</p>
-<p>&emsp;&emsp;🚀 2025-07 转码LLM </p>
-<p>&emsp;&emsp;🏆 2024-11 第16届全国大学生数学竞赛非数A全省前15(吉大校排12/2577 决赛名额9)</p>
-<p>&emsp;&emsp;➡ 樱羽艾玛图片请自取 </p>
-<br/>
+输入`角色人设,剧情与世界观` `参考音频与音频文本` `人物画像`等参数
+
+就可以快速构建一个思考方式,行为习惯都不偏离角色人设的智能体
 
 ---
 
