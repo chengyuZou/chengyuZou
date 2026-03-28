@@ -1,40 +1,42 @@
-## About Me
+<h1 align="center">Hi, I'm Chengyu Zou 👋</h1>
 
-想搭一个二次元角色通用智能体框架
+<p align="center">
+  Building character-centric AI agents with memory, story consistency, and multimodal interaction.
+</p>
 
-输入`角色人设,剧情与世界观` `参考音频与音频文本` `人物画像`等参数
+<p align="center">
+  想搭一个二次元角色通用智能体框架：输入角色人设、剧情与世界观、参考音频与文本、人物画像等参数，
+  就可以快速构建一个思考方式与行为习惯都尽量不偏离角色设定的智能体。
+</p>
 
-就可以快速构建一个思考方式,行为习惯都不偏离角色人设的智能体
-
----
-
-## My Homepages：
-
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-111111?style=flat-square&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/erfsdfds)
-[![Kaggle](https://img.shields.io/badge/Kaggle-111111?style=flat-square&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/zouchengyu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.cn/u/zouchengyu/)
-[![CSDN](https://img.shields.io/badge/CSDN-111111?style=flat-square&logo=csdn&logoColor=FC5531)](https://blog.csdn.net/Du5Ty?type=blog)
-[![Bilibili](https://img.shields.io/badge/Bilibili-111111?style=flat-square&logo=bilibili&logoColor=00A1D6)](https://space.bilibili.com/1555900596?spm_id_from=333.1007.0.0)
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-111111?style=flat-square&logo=zhihu)](https://www.zhihu.com/people/litar-53)
-
+<p align="center">
+  <a href="https://huggingface.co/erfsdfds"><img src="https://img.shields.io/badge/HuggingFace-111111?style=flat-square&logo=huggingface&logoColor=FFD21E" /></a>
+  <a href="https://www.kaggle.com/zouchengyu"><img src="https://img.shields.io/badge/Kaggle-111111?style=flat-square&logo=kaggle&logoColor=20BEFF" /></a>
+  <a href="https://leetcode.cn/u/zouchengyu/"><img src="https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://blog.csdn.net/Du5Ty?type=blog"><img src="https://img.shields.io/badge/CSDN-111111?style=flat-square&logo=csdn&logoColor=FC5531" /></a>
+  <a href="https://space.bilibili.com/1555900596?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-111111?style=flat-square&logo=bilibili&logoColor=00A1D6" /></a>
+  <a href="https://www.zhihu.com/people/litar-53"><img src="https://img.shields.io/badge/Zhihu-111111?style=flat-square&logo=zhihu" /></a>
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-### [EmaAgent](https://github.com/chengyuZou/EmaAgent) — AI 角色扮演引擎
+### [EmaAgent](https://github.com/chengyuZou/EmaAgent) — AI Character Role-Play Engine
 
-> 基于游戏剧情文件构建的智能对话系统，让 AI 角色真正"记得"她经历过的故事
-- 🔧 **开发时间**: 2025-12-09 ~ 2026-02-15 持续更新中
-- 🧠 **核心架构**：LightRAG × ReAct Agent × 多周目记忆管理
-- 📖 **数据管道**：自己清洗文本剧情 → 向量索引 → 检索增强生成
-- 🎵 **多模态**：集成 TTS 语音合成 × Live2D 模型驱动
-- 🌐 **全栈**：FastAPI 后端（15k行）× React+TypeScript 前端（6k行）
-- ♻️ **工程实践**：完整重构 3 次，模块化架构设计
+> 基于游戏剧情文件构建的角色对话系统，让 AI 角色尽可能“记得”她经历过的故事，并维持角色一致性。
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-EmaAgent-181717?style=flat-square&logo=github)](https://github.com/chengyuZou/EmaAgent)
-[![Stars](https://img.shields.io/github/stars/chengyuZou/EmaAgent?style=flat-square&color=yellow)](https://github.com/chengyuZou/EmaAgent)
-[![Bilibili](https://img.shields.io/badge/Bilibili-演示视频-00A1D6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV19WZgBfEJ9/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3151b98d67ade6395736508def783435)
+- 🧠 **Core Architecture**: LightRAG × ReAct Agent × Multi-loop Memory
+- 📖 **Pipeline**: 剧情文本清洗 → 向量索引 → 检索增强生成
+- 🎵 **Multimodal**: TTS 语音合成 × Live2D 模型驱动
+- 🌐 **Full Stack**: FastAPI backend × React + TypeScript frontend
+- ♻️ **Engineering**: 多轮重构、模块化设计、可扩展 Agent 架构
+
+<p>
+  <a href="https://github.com/chengyuZou/EmaAgent"><img src="https://img.shields.io/badge/GitHub-EmaAgent-181717?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/chengyuZou/EmaAgent"><img src="https://img.shields.io/github/stars/chengyuZou/EmaAgent?style=flat-square&color=yellow" /></a>
+  <a href="https://www.bilibili.com/video/BV19WZgBfEJ9/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3151b98d67ade6395736508def783435"><img src="https://img.shields.io/badge/Bilibili-演示视频-00A1D6?style=flat-square&logo=bilibili" /></a>
+</p>
 
 ---
 
@@ -67,7 +69,7 @@
     <td>
 
 [![LaTeX](https://img.shields.io/badge/LaTeX%20-%23008080.svg?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![PowerSell](https://img.shields.io/badge/PowerSell%20-%23007CFF.svg?style=flat-square&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+[![PowerShell](https://img.shields.io/badge/PowerShell%20-%23007CFF.svg?style=flat-square&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![Bash](https://img.shields.io/badge/Bash%20-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Computer_terminal)
 [![Git](https://img.shields.io/badge/Git-111111%3F?style=flat-square&logo=git&color=black)](https://git-scm.com/)
@@ -213,9 +215,9 @@
 ## 📊 Stats
 
 <div>
-  <img align="center" src="https://github-readme-stats-seven-navy-36.vercel.app/api?username=chengyuZou&theme=github_dark_dimmed&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&line_height=39" />
-  <img align="center" src="https://github-readme-stats-seven-navy-36.vercel.app/api/top-langs/?username=chengyuZou&hide=html,css&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=12&stats_format=bytes&layout=donut-vertical"/>
+  <img align="center" src="https://github-readme-stats-seven-navy-36.vercel.app/api?username=chengyuZou&theme=tokyonight&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&line_height=39" />
+  <img align="center" src="https://github-readme-stats-seven-navy-36.vercel.app/api/top-langs/?username=chengyuZou&hide=html,css&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=12&stats_format=bytes&layout=donut-vertical"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&theme=radical&card_width=400)](https://git.io/streak-stats)
-![LeetCode Stats](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=radical&card_height=160)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chengyuZou&theme=tokyonight&card_width=400)](https://git.io/streak-stats)
+![LeetCode Stats](https://stats.justsong.cn/api/leetcode?username=zouchengyu&cn=true&theme=tokyonight&card_height=160)
