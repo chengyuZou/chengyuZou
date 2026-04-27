@@ -22,7 +22,7 @@
 
 ## 🚀 Featured Project
 
-### [EmaAgent](https://github.com/chengyuZou/EmaAgent) — AI Character Role-Play Engine
+### [EmaAgent-Python-Prototype](https://github.com/chengyuZou/EmaAgent-Python-Prototype) — AI Character Role-Play Engine (Prototype)
 
 > 基于游戏剧情文件构建的角色对话系统，让 AI 角色尽可能“记得”她经历过的故事，并维持角色一致性。
 
