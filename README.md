@@ -33,8 +33,7 @@
 - ♻️ **Engineering**: 多轮重构、模块化设计、可扩展 Agent 架构
 
 <p>
-  <a href="https://github.com/chengyuZou/EmaAgent"><img src="https://img.shields.io/badge/GitHub-EmaAgent-181717?style=flat-square&logo=github" /></a>
-  <a href="https://github.com/chengyuZou/EmaAgent"><img src="https://img.shields.io/github/stars/chengyuZou/EmaAgent?style=flat-square&color=yellow" /></a>
+  <a href="[https://github.com/chengyuZou/EmaAgent-Python-Prototype](https://github.com/chengyuZou/EmaAgent-Python-Prototype)"><img src="https://img.shields.io/github/stars/chengyuZou/EmaAgent-Python-Prototype?style=flat-square&color=yellow" /></a>
   <a href="https://www.bilibili.com/video/BV19WZgBfEJ9/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3151b98d67ade6395736508def783435"><img src="https://img.shields.io/badge/Bilibili-演示视频-00A1D6?style=flat-square&logo=bilibili" /></a>
 </p>
 
